@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmatraynor
-- 👀 I’m interested in creat and learning
+- 👀 I’m interested in creating and learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any beginner python project
 - 📫 How to reach me @emmatraynorema1 on twitter
